@@ -18,7 +18,7 @@ Thank you for considering contributing! Here’s how you can help improve this p
 2. **Clone** your fork:
 
 ```bash
-git clone https://github.com/yourusername/kernel-pca-classifier.git
+git clone https://github.com/MaddyRizvi/Kernel-PCA-wine-classifier
 cd kernel-pca-classifier
 ```
 
