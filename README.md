@@ -20,6 +20,17 @@ The dataset used is `Wine.csv`, containing chemical analysis results of wines gr
 └── CONTRIBUTING.md
 ```
 
+### ✅ Decision Boundary Visualizations
+
+**Training Set:**
+
+![Image](https://github.com/user-attachments/assets/b7ee2b47-8667-43a5-ab37-9b103b723a9e)
+
+**Test Set:**
+
+![Image](https://github.com/user-attachments/assets/aa261653-b459-47e1-9933-2111a6599557)
+
+
 ## 📦 Requirements
 
 Install the following Python packages:
