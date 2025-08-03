@@ -2,7 +2,7 @@
 
 ## 📝 Summary
 
-This project implements Kernel Principal Component Analysis (Kernel PCA) for dimensionality reduction followed by Logistic Regression for classification. The model is trained and evaluated on the Wine dataset, visualizing the decision boundary in reduced dimensions.
+This project implements Kernel Principal Component Analysis (Kernel PCA) for dimensionality reduction followed by Logistic Regression for classification. The model is trained and evaluated on the Wine dataset, visualizing the decision boundary in reduced dimensions.This model can be applied to any big-size dataset.
 
 ## 📂 Dataset
 
